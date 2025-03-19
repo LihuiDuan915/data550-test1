@@ -1,0 +1,12 @@
+---
+title: data550-test1-my first git repo(on the main branch)
+author: "Lily Duan"
+output: github_document
+---
+
+# My first commit
+
+Here is some text that constitutes my first commit in my first repo.
+I am now adding a new line to this first commit section of the readme.
+
+# My second commit
